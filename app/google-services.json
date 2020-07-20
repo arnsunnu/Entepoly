@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "440256432259",
+    "firebase_url": "https://entepoly-acd4d.firebaseio.com",
+    "project_id": "entepoly-acd4d",
+    "storage_bucket": "entepoly-acd4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440256432259:android:956463498f2dfad821b3b6",
+        "android_client_info": {
+          "package_name": "com.exflater.entepoly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440256432259-3inle5lp1e7jkvnl9or9b7lma614g1nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2ZXOr6KeiAH1yckHxgDSta-5anWxNx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440256432259-3inle5lp1e7jkvnl9or9b7lma614g1nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
